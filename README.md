@@ -1,4 +1,4 @@
-# Drone-Based Evapotranspiration (ET) System
+# Project BHUJAL 
 
 ## Overview
 This project mainly deals with the use of drone-based technology to keep track of and predict the amount of **Evapotranspiration (ET)** in the respective agricultural fields. These drones are mounted with multispectral cameras as well as a thermal camera, and they are used to capture high-resolution aerial images, which are then processed in order to calculate ET. This piece of information helps the farmers with irrigation optimization, crop health monitoring, and sustainable water usages.
